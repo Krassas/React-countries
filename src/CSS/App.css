@@ -1,0 +1,31 @@
+
+
+#loading {
+    text-align: center;
+    font-size: 42px;
+    color: white;
+}
+
+#mainContent {
+    width: 100%;
+   
+}
+
+#mainTitle {    
+    text-align: center;
+    font-size: 42px;
+    color: white;
+}
+
+#searchBox {
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+@media screen and (max-width: 500px) {
+    #mainTitle {
+        font-size: 24px;
+    }
+    
+  }
